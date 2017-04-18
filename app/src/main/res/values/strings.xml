@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HabbitTracker</string>
+    <string name="name_text">Enter your habbit here.</string>
+    <string name="time_text"> Enter min\'s spent on above activity here.</string>
+    <string name="show_activites_text">Show Activites</string>
+    <string name="clear_activites_text">Clear Activities</string>
+</resources>
